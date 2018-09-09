@@ -18,6 +18,6 @@ python 파일.py # 파일을 실행합니다.
 10224 박종현
 ```
 
- * 파일명은 *성씨-start.py*로 설정해서 커밋하세요.
- ex) *park-start.py* *kang-start.py* *kim-start.py*
+ * 파일명은 *이니셜-start.py*로 설정해서 커밋하세요.
+ ex) *pjh-start.py* *ksh-start.py* *sjh-start.py*
  * [예시 보기](./example1.py) **__예시 보기는 정말로 답 풀리지 않을때 볼것. 이거 보고풀면 나중에 실력 안늘어서 안한거 다 티남__**
